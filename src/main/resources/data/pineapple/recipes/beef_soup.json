@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FRF",
+    "C#C",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cooked_beef"
+    },
+    "C": {
+      "item": "pineapple:cheese"
+    },
+    "F": {
+      "item": "pasterdream:flour"
+    },
+    "R": {
+      "item": "pineapple:butter"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "pineapple:beef_soup"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "item.pineapple.salt": "Salt",
+  "item.pineapple.cheese": "Cheese",
+  "item.pineapple.butter": "Butter",
+  "item.pineapple.cake_knife": "Cake Knife",
+  "item.pineapple.dream_jelly": "Dream Jelly",
+  "item.pineapple.fruit_sandwiches": "Fruit Sandwiches",
+  "item.pineapple.bacon_sandwiches": "Bacon Sandwiches",
+  "item.pineapple.egg_sandwiches": "Egg Sandwiches",
+  "item.pineapple.jelly_sandwiches": "Jelly Sandwiches",
+  "item.pineapple.pancake": "Pancake",
+  "item.pineapple.cheese_soup": "Cheese Soup",
+  "item.pineapple.beef_soup": "Cheese Beef Soup",
+  "block.pineapple.pineapple_berries_cake": "Berries Cake",
+  "block.pineapple.pineapple_potato_cake": "Potato Cake",
+  "block.pineapple.pineapple_melon_cake": "Melon Cake",
+  "block.pineapple.pineapple_glow_cake": "Glow Berries Cake",
+  "block.pineapple.pineapple_dyedream_cake": "DyeDream Cake",
+
+  "block.pineapple.wolf_block_obj": "Wolf [WIP]"
+}

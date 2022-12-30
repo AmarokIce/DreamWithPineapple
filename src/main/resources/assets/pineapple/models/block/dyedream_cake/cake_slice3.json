@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "pineapple:block/dyedream_cake/cake_side",
+    "bottom": "pineapple:block/dyedream_cake/cake_bottom",
+    "top": "pineapple:block/dyedream_cake/cake_top",
+    "side": "pineapple:block/dyedream_cake/cake_side",
+    "inside": "pineapple:block/dyedream_cake/cake_inner"
+  },
+  "elements": [
+    {   "from": [ 7, 0, 1 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

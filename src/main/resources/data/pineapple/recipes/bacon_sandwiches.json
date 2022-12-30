@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "SCP",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "pasterdream:dough"
+    },
+    "S": {
+      "item": "pineapple:salt"
+    },
+    "C": {
+      "item": "pineapple:cheese"
+    },
+    "P": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "pineapple:bacon_sandwiches"
+  }
+}

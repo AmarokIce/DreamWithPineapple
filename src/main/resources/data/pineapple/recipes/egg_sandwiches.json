@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "E",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "pasterdream:eggdough"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "pineapple:egg_sandwiches"
+  }
+}

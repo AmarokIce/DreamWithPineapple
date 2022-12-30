@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pasterdream:eggdough"
+    },
+    "B": {
+      "item": "pineapple:butter"
+    }
+  },
+  "result": {
+    "item": "pineapple:pancake"
+  }
+}

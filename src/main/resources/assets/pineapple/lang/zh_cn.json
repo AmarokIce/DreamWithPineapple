@@ -1,0 +1,21 @@
+{
+  "item.pineapple.salt": "盐",
+  "item.pineapple.cheese": "起司",
+  "item.pineapple.butter": "黄油",
+  "item.pineapple.cake_knife": "蛋糕刀",
+  "item.pineapple.dream_jelly": "梦境果冻",
+  "item.pineapple.fruit_sandwiches": "水果三明治",
+  "item.pineapple.bacon_sandwiches": "培根三明治",
+  "item.pineapple.egg_sandwiches": "煎蛋三明治",
+  "item.pineapple.jelly_sandwiches": "果冻三明治",
+  "item.pineapple.pancake": "松饼",
+  "item.pineapple.cheese_soup": "芝士浓汤",
+  "item.pineapple.beef_soup": "牛肉焖炖",
+  "block.pineapple.pineapple_berries_cake": "浆果蛋糕",
+  "block.pineapple.pineapple_potato_cake": "根茎蛋糕",
+  "block.pineapple.pineapple_melon_cake": "西瓜蛋糕",
+  "block.pineapple.pineapple_glow_cake": "荧光蛋糕",
+  "block.pineapple.pineapple_dyedream_cake": "染梦蛋糕",
+
+  "block.pineapple.wolf_block_obj": "狼 [WIP]"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FRF",
+    "###",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "pineapple:cheese"
+    },
+    "F": {
+      "item": "pasterdream:flour"
+    },
+    "R": {
+      "item": "pineapple:butter"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "pineapple:cheese_soup"
+  }
+}

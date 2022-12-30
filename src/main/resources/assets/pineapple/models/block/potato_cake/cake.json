@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "pineapple:block/potato_cake/cake_side",
+    "bottom": "pineapple:block/potato_cake/cake_bottom",
+    "top": "pineapple:block/potato_cake/cake_top",
+    "side": "pineapple:block/potato_cake/cake_side",
+    "inside": "pineapple:block/potato_cake/cake_side"
+  },
+  "elements": [
+    {   "from": [ 1, 0, 1 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

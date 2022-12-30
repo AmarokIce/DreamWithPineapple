@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "particle": "block/melon_cake/cake_side",
+    "bottom": "block/melon_cake/cake_bottom",
+    "top": "block/melon_cake/cake_top",
+    "side": "block/melon_cake/cake_side",
+    "inside": "block/melon_cake/cake_inner"
+  },
+  "elements": [
+    {   "from": [ 9, 0, 1 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "down":  { "texture": "#bottom", "cullface": "down" },
+        "up":    { "texture": "#top" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#inside" },
+        "east":  { "texture": "#side" }
+      }
+    }
+  ]
+}

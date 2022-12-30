@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pasterdream:buncake_5"
+    }
+  },
+  "result": {
+    "item": "pineapple:glow_cake_item"
+  }
+}

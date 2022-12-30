@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "J",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "pasterdream:dough"
+    },
+    "J": {
+      "item": "pineapple:dream_jelly"
+    }
+  },
+  "result": {
+    "item": "pineapple:jelly_sandwiches"
+  }
+}

@@ -1,0 +1,32 @@
+
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Pineapple"
+[[mods]]
+modId="pineapple"
+version="${file.jarVersion}"
+displayName="Dream With Pineapple"
+logoFile="pineapple.png"
+credits="Someoneice"
+authors="Someoneice"
+description='''
+Teast more of good in PasterDream!
+'''
+[[dependencies.pineapple]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.pineapple]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.pineapple]]
+    modId="pasterdream"
+    mandatory=true
+    versionRange="[0.0.1,9.0.0)"
+    ordering="NONE"
+    side="BOTH"
